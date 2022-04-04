@@ -1,5 +1,5 @@
-const contractAddress = "0x1b8CA30743008667538f1579Ea96f9cd056dEC5C"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x43b26Cbde434D368FDC1F0ebd25F7EC555eEBC5c"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Toppin Troops NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
